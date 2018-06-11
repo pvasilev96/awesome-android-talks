@@ -15,6 +15,10 @@ Architecture Components - Persistence and Offline
 
 [![Architecture Components - Persistence and Offline](https://i.ytimg.com/vi/MfHsPGQ6bgE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAGuuUUep3kZFIgAANUKuL96P9Gkw)](https://www.youtube.com/watch?v=MfHsPGQ6bgE&index=58&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&t=0s)  
 
+Android Jetpack: manage infinite lists with RecyclerView and Paging  
+
+[![Android Jetpack: manage infinite lists with RecyclerView and Paging](https://i.ytimg.com/vi/BE5bsyGGLf4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBI8Q_inqUTFHI9bHPF1BdnNQf75g)](https://www.youtube.com/watch?v=BE5bsyGGLf4&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=139&t=0s)
+
 ## Kotlin  
 
 Life is Great and Everything Will Be Ok, Kotlin is Here  

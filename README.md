@@ -10,3 +10,7 @@ Architecture Components - Introduction
 Architecture Components - Solving the Lifecycle Problem  
 
 [![Architecture Components - Solving the Lifecycle Problem](https://i.ytimg.com/vi/bEKNi1JOrNs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDyApftbwAjMqJQZ9NTOSLZevayhw)](https://www.youtube.com/watch?v=bEKNi1JOrNs&index=35&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&t=0s)  
+
+Architecture Components - Persistence and Offline  
+
+[![Architecture Components - Persistence and Offline](https://i.ytimg.com/vi/MfHsPGQ6bgE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAGuuUUep3kZFIgAANUKuL96P9Gkw)](https://www.youtube.com/watch?v=MfHsPGQ6bgE&index=58&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&t=0s)

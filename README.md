@@ -13,4 +13,10 @@ Architecture Components - Solving the Lifecycle Problem
 
 Architecture Components - Persistence and Offline  
 
-[![Architecture Components - Persistence and Offline](https://i.ytimg.com/vi/MfHsPGQ6bgE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAGuuUUep3kZFIgAANUKuL96P9Gkw)](https://www.youtube.com/watch?v=MfHsPGQ6bgE&index=58&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&t=0s)
+[![Architecture Components - Persistence and Offline](https://i.ytimg.com/vi/MfHsPGQ6bgE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAGuuUUep3kZFIgAANUKuL96P9Gkw)](https://www.youtube.com/watch?v=MfHsPGQ6bgE&index=58&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&t=0s)  
+
+## Kotlin  
+
+Life is Great and Everything Will Be Ok, Kotlin is Here  
+
+[![Life is Great and Everything Will Be Ok, Kotlin is Here](https://i.ytimg.com/vi/fPzxfeDJDzY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDOSsK3rRMd4vCx6X_ufLYcUq1FsA)](https://www.youtube.com/watch?v=fPzxfeDJDzY&index=13&list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy&t=0s)  

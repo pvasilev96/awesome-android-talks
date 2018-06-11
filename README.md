@@ -17,7 +17,11 @@ Architecture Components - Persistence and Offline
 
 Android Jetpack: manage infinite lists with RecyclerView and Paging  
 
-[![Android Jetpack: manage infinite lists with RecyclerView and Paging](https://i.ytimg.com/vi/BE5bsyGGLf4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBI8Q_inqUTFHI9bHPF1BdnNQf75g)](https://www.youtube.com/watch?v=BE5bsyGGLf4&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=139&t=0s)
+[![Android Jetpack: manage infinite lists with RecyclerView and Paging](https://i.ytimg.com/vi/BE5bsyGGLf4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBI8Q_inqUTFHI9bHPF1BdnNQf75g)](https://www.youtube.com/watch?v=BE5bsyGGLf4&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=139&t=0s)  
+
+Android Jetpack: easy background processing with WorkManager  
+
+[![Android Jetpack: easy background processing with WorkManager](https://i.ytimg.com/vi/IrKoBFLwTN0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDIV2-jObDSyDGFpxLX5XC2fSBG9g)](https://www.youtube.com/watch?v=IrKoBFLwTN0&t=0s&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=87)
 
 ## Kotlin  
 

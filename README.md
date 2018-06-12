@@ -1,6 +1,12 @@
 # awesome-android-talks
 List of talks from android conferences  
 
+## Themes & Styles  
+
+Using Styles and Themes Without Going Crazy  
+
+[![Using Styles and Themes Without Going Crazy](https://i.ytimg.com/an_webp/Jr8hJdVGHAk/mqdefault_6s.webp?du=3000&sqp=CNSvgNkF&rs=AOn4CLDOwKDBtfVKLUfm3wNsznbsVN9FDA)](https://www.youtube.com/watch?v=Jr8hJdVGHAk&t=0s)
+
 ## Architecture Components  
 
 Architecture Components - Introduction  

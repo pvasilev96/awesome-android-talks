@@ -21,7 +21,11 @@ Android Jetpack: manage infinite lists with RecyclerView and Paging
 
 Android Jetpack: easy background processing with WorkManager  
 
-[![Android Jetpack: easy background processing with WorkManager](https://i.ytimg.com/vi/IrKoBFLwTN0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDIV2-jObDSyDGFpxLX5XC2fSBG9g)](https://www.youtube.com/watch?v=IrKoBFLwTN0&t=0s&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=87)
+[![Android Jetpack: easy background processing with WorkManager](https://i.ytimg.com/vi/IrKoBFLwTN0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDIV2-jObDSyDGFpxLX5XC2fSBG9g)](https://www.youtube.com/watch?v=IrKoBFLwTN0&t=0s&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&index=87)  
+
+Android Jetpack: manage UI navigation with Navigation Controller  
+
+[![Android Jetpack: manage UI navigation with Navigation Controller](https://i.ytimg.com/vi/8GCXtCjtg40/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB0OLYDRL3CJq864sD6s18_4QoUlQ)](https://www.youtube.com/watch?v=8GCXtCjtg40&index=109&list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y&t=0s)
 
 ## Kotlin  
 
